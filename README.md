@@ -2,10 +2,11 @@
 
 - Original Game's resources extracted by D3fau4 and game made by Manurocker95.
 
-This was made only for learning purposes.
 
 ![alt text](https://i.imgur.com/iyBQa8H.png)
 
+
+This was made only for learning purposes.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
