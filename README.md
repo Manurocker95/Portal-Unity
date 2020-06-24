@@ -38,10 +38,10 @@ In Menu:
 
 The game comes with a console that allows you to play with some commands. Some cool ones are:
 
-- Set-Blue-Portal-Color <r> <g> <b> : Which sets the color for blue portal in the RGB you want. Want different portals?
-- Set-Orange-Portal-Color <r> <g> <b> : Which sets the color for blue portal in the RGB you want. Want different portals?
-- Set-Portal-Recursions <Number> : Which sets the recursios per portal. More recursions make the game go slower, as you may expect.
-- Set-Portal-Resolution <width> <height>: Which sets portal resolutions. Default values are 512x512 with 3 recursions, but if you want a more HD look, check: Set-Portal-Resolution 2048 2048
+- Set-Blue-Portal-Color [r] [g] [b] : Which sets the color for blue portal in the RGB you want. Want different portals?
+- Set-Orange-Portal-Color [r] [g] [b] : Which sets the color for blue portal in the RGB you want. Want different portals?
+- Set-Portal-Recursions [Number] : Which sets the recursios per portal. More recursions make the game go slower, as you may expect.
+- Set-Portal-Resolution [width] [height]: Which sets portal resolutions. Default values are 512x512 with 3 recursions, but if you want a more HD look, check: Set-Portal-Resolution 2048 2048
 - Show-FPS/Hide-FPS: Show and hide FPS 
 - Show-Full-Specs: Show FPS and your PC specs (and RAM usage)
 
